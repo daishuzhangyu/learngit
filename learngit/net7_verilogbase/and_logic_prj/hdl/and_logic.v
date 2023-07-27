@@ -19,7 +19,8 @@ module and_logic
 
 //assign led = key1&key2; 
 
-always@(*)
+always@(*)begin
 	led = key1&key2; 
+end 
 
 endmodule
