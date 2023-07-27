@@ -1,0 +1,37 @@
+Chronologic VCS simulator copyright 1991-2018
+Contains Synopsys proprietary information.
+Compiler version O-2018.09-SP2_Full64; Runtime version O-2018.09-SP2_Full64;  Jul 20 23:34 2023
+VCD+ Writer O-2018.09-SP2_Full64 Copyright (c) 1991-2018 by Synopsys Inc.
+The file '/home/v3edu/zhangheng21_place/net7_verilogbase/and_logic_prj/inter.vpd' was opened successfully.
+/syn/generic.sdb'
+/syn/vcs.sdb'
+/syn/vcs.sdb'
+/syn/vcs.sdb'
+/syn/generic.sdb'
+dve> 
+dve> 
+dve> 
+dve> 
+dve> 
+dve> 
+10000 ps
+20000 ps
+1 driver (0 active) found for signal: tb_and_logic.and_logic_inst.key2
+30000 ps
+40000 ps
+50000 ps
+60000 ps
+70000 ps
+80000 ps
+90000 ps
+100000 ps
+With selected criteria, DVE has found 'results at time 20
+    tb_and_logic.and_logic_inst.key2'.
+110000 ps
+120000 ps
+130000 ps
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 100000 ps
+CPU Time:      0.210 seconds;       Data structure size:   0.0Mb
+Fri Jul 21 00:02:23 2023
+Loading db file '/home/v3edu/EDA/VCS2018/vcs-mx/O-2018.09-SP2/gui/dve/librariesLoading db file '/home/v3edu/EDA/VCS2018/vcs-mx/O-2018.09-SP2/gui/dve/librariesLoading db file '/home/v3edu/EDA/VCS2018/vcs-mx/O-2018.09-SP2/gui/dve/librariesLoading db file '/home/v3edu/EDA/VCS2018/vcs-mx/O-2018.09-SP2/gui/dve/librariesLoading db file '/home/v3edu/EDA/VCS2018/vcs-mx/O-2018.09-SP2/gui/dve/librariesUpdating preference file: /home/v3edu/.synopsys_dve_prefs.tcl

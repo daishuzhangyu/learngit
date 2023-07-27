@@ -1,0 +1,17 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/home/v3edu/zhangheng21_place/net7_verilogbase/and_logic_prj
+SystemC=FALSE
+UUM=TRUE
+KDB=FALSE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+SYNOPSYS_SIM_SETUP=/home/v3edu/zhangheng21_place/net7_verilogbase/and_logic_prj/synopsys_sim.setup 
+TOP=tb_and_logic 
+OPTION=-ssz -ssz -ssv -ssy 
+ELAB_OPTION=-ssz -ssz -ssv -ssy 
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a

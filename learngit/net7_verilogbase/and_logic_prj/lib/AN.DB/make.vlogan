@@ -1,0 +1,17 @@
+
+VLOGAN	= vlogan
+VLOGAN_OPT	= -full64 +v2k -work WORK -full64
+
+all :		_VCSgd_Idf7zd_1.db \
+	_VCSgd_Jii7ie_1.db \
+
+
+
+_VCSgd_Idf7zd_1.db :	./hdl/and_logic.v 
+		${VLOGAN}  ${VLOGAN_OPT} ./hdl/and_logic.v
+
+
+_VCSgd_Jii7ie_1.db :	./sim/tb_and_logic.v 
+		${VLOGAN}  ${VLOGAN_OPT} ./sim/tb_and_logic.v
+
+
